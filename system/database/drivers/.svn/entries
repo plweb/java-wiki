@@ -1,0 +1,62 @@
+8
+
+dir
+462
+svn://lyhdev.com/project.plweb/trunk/plweb.webapp.java/WebContent/system/database/drivers
+svn://lyhdev.com/project.plweb
+
+
+
+2010-08-12T08:45:43.975650Z
+393
+kyle
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cba5ea3e-d0b6-4d65-b0c3-fa0329922323
+
+mssql
+dir
+
+sqlite
+dir
+
+oci8
+dir
+
+postgre
+dir
+
+mysql
+dir
+
+odbc
+dir
+
+index.html
+file
+
+
+
+
+2010-08-13T00:59:55.000000Z
+0227cfd904e99656279202032b98d4a7
+2010-08-12T08:45:43.975650Z
+393
+kyle
+has-props
+
+mysqli
+dir
+

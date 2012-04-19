@@ -1,0 +1,55 @@
+8
+
+dir
+462
+svn://lyhdev.com/project.plweb/trunk/plweb.webapp.java/WebContent/shared/pear/docs/HTML_Template_IT/examples
+svn://lyhdev.com/project.plweb
+
+
+
+2010-08-12T08:45:43.975650Z
+393
+kyle
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cba5ea3e-d0b6-4d65-b0c3-fa0329922323
+
+sample_it.php
+file
+
+
+
+
+2010-08-13T01:00:13.000000Z
+157f1b27090288fbce921b762697c3f4
+2010-08-12T08:45:43.975650Z
+393
+kyle
+
+templates
+dir
+
+sample_itx_addblockfile.php
+file
+
+
+
+
+2010-08-13T01:00:13.000000Z
+1d2363fa8640780392af6c51e9c3713f
+2010-08-12T08:45:43.975650Z
+393
+kyle
+

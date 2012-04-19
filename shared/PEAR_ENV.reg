@@ -1,0 +1,9 @@
+REGEDIT4
+[HKEY_CURRENT_USER\Environment]
+"PHP_PEAR_SYSCONF_DIR"="D:\\project.plweb.20\\plweb.webapp.java\\WebContent\\shared"
+"PHP_PEAR_INSTALL_DIR"="D:\\project.plweb.20\\plweb.webapp.java\\WebContent\\shared\\pear"
+"PHP_PEAR_DOC_DIR"="D:\\project.plweb.20\\plweb.webapp.java\\WebContent\\shared\\pear\\docs"
+"PHP_PEAR_BIN_DIR"="D:\\project.plweb.20\\plweb.webapp.java\\WebContent\\shared"
+"PHP_PEAR_DATA_DIR"="D:\\project.plweb.20\\plweb.webapp.java\\WebContent\\shared\\pear\\data"
+"PHP_PEAR_PHP_BIN"="d:\\project.plweb.20\\xampp\\php\\php.exe"
+"PHP_PEAR_TEST_DIR"="D:\\project.plweb.20\\plweb.webapp.java\\WebContent\\shared\\pear\\tests"

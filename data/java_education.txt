@@ -1,0 +1,8 @@
+===Java教學相關資源===
+'''[http://www.bluej.org/ BlueJ]''' - The interactive Java environment
+BlueJ是針對入門教學設計的Java整合環境，免費[http://www.bluej.org/download/download.html 下載]。
+BlueJ was developed at a University specifically for the purpose of teaching object orientation with Java.
+
+'''[http://download.oracle.com/javase/tutorial/ The Java Tutorials]
+由Oracle提供的教材，可線上免費取得，內容涵蓋Java開發人員應瞭解的基礎知識。
+The Java Tutorials are practical guides for programmers who want to use the Java programming language to create applications. They include hundreds of complete, working examples, and dozens of lessons. Groups of related lessons are organized into "trails". 

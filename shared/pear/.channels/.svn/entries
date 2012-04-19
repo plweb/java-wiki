@@ -1,0 +1,79 @@
+8
+
+dir
+462
+svn://lyhdev.com/project.plweb/trunk/plweb.webapp.java/WebContent/shared/pear/.channels
+svn://lyhdev.com/project.plweb
+
+
+
+2010-08-12T08:45:43.975650Z
+393
+kyle
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cba5ea3e-d0b6-4d65-b0c3-fa0329922323
+
+.alias
+dir
+
+__uri.reg
+file
+
+
+
+
+2010-08-13T01:00:15.000000Z
+78c22d764d3a5fc69d008a13b9a359a3
+2010-08-12T08:45:43.975650Z
+393
+kyle
+
+pecl.php.net.reg
+file
+
+
+
+
+2010-08-13T01:00:15.000000Z
+e82429487191466fc5cf1538ec9bea61
+2010-08-12T08:45:43.975650Z
+393
+kyle
+
+doc.php.net.reg
+file
+
+
+
+
+2010-08-13T01:00:15.000000Z
+9223d742dfc335c611d854b46e42ca35
+2010-08-12T08:45:43.975650Z
+393
+kyle
+
+pear.php.net.reg
+file
+
+
+
+
+2010-08-13T01:00:15.000000Z
+02ec100f8365601df9eb1794f880dad4
+2010-08-12T08:45:43.975650Z
+393
+kyle
+

@@ -1,0 +1,60 @@
+8
+
+dir
+462
+svn://lyhdev.com/project.plweb/trunk/plweb.webapp.java/WebContent/shared/pear/data/PEAR_Frontend_Web/data
+svn://lyhdev.com/project.plweb
+
+
+
+2010-08-12T08:45:43.975650Z
+393
+kyle
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+cba5ea3e-d0b6-4d65-b0c3-fa0329922323
+
+images
+dir
+
+package.js
+file
+
+
+
+
+2010-08-13T01:00:16.000000Z
+5b49b66bae0796bfaa81c6ddcc07c1eb
+2010-08-12T08:45:43.975650Z
+393
+kyle
+has-props
+
+style.css
+file
+
+
+
+
+2010-08-13T01:00:16.000000Z
+943b49e642faf8ce8eff783057719870
+2010-08-12T08:45:43.975650Z
+393
+kyle
+has-props
+
+templates
+dir
+
